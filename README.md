@@ -1,7 +1,7 @@
-#Link to the virtual pet
+# Link to the virtual pet
 https://www.cs.drexel.edu/~ss5683/egg.html
 
-#Link to the documentation
+# Link to the documentation
 https://www.cs.drexel.edu/~ss5683/humpty.html
 
 # Humpty: The Pet Egg
