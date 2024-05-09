@@ -1,4 +1,10 @@
-# Humpty-The-Pet-Egg
+#Link to the virtual pet
+https://www.cs.drexel.edu/~ss5683/egg.html
+
+#Link to the documentation
+https://www.cs.drexel.edu/~ss5683/humpty.html
+
+# Humpty: The Pet Egg
 
 
 Humpty: The Pet Egg
